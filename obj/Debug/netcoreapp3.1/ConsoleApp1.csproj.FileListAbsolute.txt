@@ -1,0 +1,28 @@
+D:\conestoga\dotnet\final-project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\conestoga\dotnet\final-project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\conestoga\dotnet\final-project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\conestoga\dotnet\final-project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\conestoga\dotnet\final-project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\conestoga\dotnet\final-project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\conestoga\dotnet\final-project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\CONESTOGA\Sem 2\DOT NET\Final_Project\Final_Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
